@@ -7,6 +7,7 @@ namespace Demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello James!");
+            Console.WriteLine("Come on James!");
         }
     }
 }
