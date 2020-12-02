@@ -11,7 +11,6 @@ namespace Demo
 
             Console.WriteLine("Come on James!");
 
-            Console.WriteLine("Come on!");
         }
     }
 }
