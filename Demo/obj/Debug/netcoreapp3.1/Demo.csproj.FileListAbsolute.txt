@@ -1,0 +1,13 @@
+H:\GitDemo\james\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+H:\GitDemo\james\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+H:\GitDemo\james\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+H:\GitDemo\james\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+H:\GitDemo\james\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+H:\GitDemo\james\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+H:\GitDemo\james\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+H:\GitDemo\james\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+H:\GitDemo\james\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+H:\GitDemo\james\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+H:\GitDemo\james\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+H:\GitDemo\james\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+H:\GitDemo\james\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
