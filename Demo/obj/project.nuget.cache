@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "we0mfKhgFhQMz/kWrCDqP3piL9lwZq0i3qZ/u+lhgtDqTVzzbCvhLKzd/DkkwAd7CHrr9/N0xaWHHFPn/cCmrA==",
+  "dgSpecHash": "ZwkyWSzQxXjUwOsiLOHjyWi3uVseEN16w62Drt9+ZIcYf501ksanSF9d9OKBSQbcR/qCtC3T3vRDHD392fie7A==",
   "success": true,
-  "projectFilePath": "H:\\GitDemo\\james\\Demo\\Demo.csproj",
+  "projectFilePath": "H:\\gitClone\\james\\Demo\\Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
