@@ -12,5 +12,10 @@ namespace Demo
             Console.WriteLine("Come on James!");
 
         }
+
+        void ShowDate()
+        {
+            Console.WriteLine("kkk");
+        }
     }
 }
