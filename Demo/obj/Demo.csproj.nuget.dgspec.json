@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\GitDemo\\james\\Demo\\Demo.csproj": {}
+    "H:\\gitClone\\james\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "H:\\GitDemo\\james\\Demo\\Demo.csproj": {
+    "H:\\gitClone\\james\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\GitDemo\\james\\Demo\\Demo.csproj",
+        "projectUniqueName": "H:\\gitClone\\james\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "H:\\GitDemo\\james\\Demo\\Demo.csproj",
+        "projectPath": "H:\\gitClone\\james\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "H:\\GitDemo\\james\\Demo\\obj\\",
+        "outputPath": "H:\\gitClone\\james\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
